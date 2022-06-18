@@ -1,0 +1,47 @@
+/*
+标签选择器
+p{
+    color: gray;
+    width: 165px;
+    background-color:skyblue;
+}
+类选择器，可以重复
+.p{
+    color: red;
+    width: 165px;
+    background-color:skyblue;
+}
+.p-01{
+    text-indent: 2em;
+    width: 50em;
+    text-decoration: none;
+}
+id选择器，一个id只能选中一个标签
+#p{
+    color: yellow;
+    width: 165px;
+    background-color:skyblue;
+}
+通配符选择器以“*”开头，几乎不使用，可以用来去除margin和padding
+
+span{
+    background-color: red;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.div-father{
+        background-color:white;
+}
+.div-son{
+    width: 50em;
+    height: 370px;
+    background-color:white;
+    margin: 0 auto;
+
+}
+.div-title{
+    margin: 0 auto;
+}
+*/
